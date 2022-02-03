@@ -1,6 +1,6 @@
 // METAMASK CONNECTION
 const TIMEOUT = 1000;
-const COLLECTION_NAME = 'Packed Giraffes';
+const COLLECTION_NAME = 'PackedGiraffes';
 let editions = [];
 let dots = 1;
 
